@@ -45,7 +45,7 @@
  - **Удобство использования**: интерфейс для конечных пользователей (сотрудники склада, клиенты) должен быть интуитивно понятным и требовать минимального времени на обучение
 
 #### 6. **Контекстная схнма системы C1**
-![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio.png)
+![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork1/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio.png)
 
 #### 7. **Критические сценарии и критические характеристики**
 - **Подача заявки клиентом**: система должна быть отзывчивой и процесс первичной подачи заявки должен быть быстрым
