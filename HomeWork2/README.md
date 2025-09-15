@@ -42,3 +42,5 @@
 3.  **Пост-обработка и оплата (Post-Processing & Payments)**: Всё, что происходит после финального согласования цены. Включает в себя:
     -   Проведение выплат.
     -   Передачу устройства на продажу или утилизацию.
+
+![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork2/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio%20(5).png)
