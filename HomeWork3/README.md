@@ -1,0 +1,1 @@
+### Архитектурная ката [Going Green](http://nealford.com/katas/kata?id=GoingGreen "Going Green")
