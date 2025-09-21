@@ -28,7 +28,7 @@
 6.  **Платежи (Payments)**: Отвечает за формирование и отправку платежей (`Payment`) клиентам.
 7.  **Управление заявками клиентов (Applications)**: Отвечает за создание заявки и управление ее статусом.
 
-![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork2/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio%20(4).png)
+![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork2/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio%20(6).png)
 #### 3.2. **Декомпозиция по клиентскому пути**
 1.  **Создание заявки (Applications)**: Всё, что происходит до отправки устройства клиентом. Включает в себя:
     -   Работу с каталогом устройств.
@@ -43,7 +43,7 @@
     -   Проведение выплат.
     -   Передачу устройства на продажу или утилизацию.
 
-![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork2/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio%20(5).png)
+![enter image description here](https://github.com/Anton-Grebenkin/GoingGreen/blob/main/HomeWork2/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio%20(7).png)
 
 #### 4. Возможные сценарии изменений системы
 1.  Добавление нового способа оплаты. (вероятность высокая)
